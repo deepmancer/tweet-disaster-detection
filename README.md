@@ -104,6 +104,3 @@ We are committed to further refining this system and exploring its applications 
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-- **Your Name** - [@deepmancer](https://github.com/deepmancer)
