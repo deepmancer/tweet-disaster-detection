@@ -101,6 +101,3 @@ We are committed to further refining this system and exploring its applications 
 
 4. **Predict Disaster Tweets**:
    - Use the trained models to predict new tweets by following the instructions in the notebook.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
