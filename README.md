@@ -10,14 +10,7 @@
 ## 📘 Introduction
 This repository hosts the **Tweet Disaster Detection** system, an advanced NLP solution designed to identify disaster-related tweets in real-time. With the explosion of social media usage, rapidly detecting potential disaster events through user-generated content is crucial for timely interventions and responses.
 
-## 🌟 Features
-
-- **Real-Time Disaster Detection**: The system is capable of analyzing tweets in real-time to detect potential disasters as they unfold.
-- **State-of-the-Art NLP Models**: Utilizes cutting-edge NLP models, including a fine-tuned BERT model, for high accuracy in disaster tweet classification.
-- **Customizable and Extendable**: Built with flexibility in mind, the codebase allows for easy extension and customization to suit specific needs or datasets.
-- **Visualization Tools**: Includes tools for visualizing model performance, such as learning curves and confusion matrices, providing insights into model behavior.
-
-## 💼 Libraries and Tools Used
+## 🌟 Libraries and Frameworks
 
 The project leverages several powerful libraries and tools, including:
 
