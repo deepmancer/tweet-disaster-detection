@@ -1,11 +1,11 @@
 # 🌩️ Tweet Disaster Detection
 
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-orange.svg)
-![NLP](https://img.shields.io/badge/NLP-BERT%20%26%20Naive%20Bayes-green.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-red.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11.0-blue.svg)
+![Keras](https://img.shields.io/badge/Keras-2.11.0-red.svg)
 ![Huggingface](https://img.shields.io/badge/Huggingface-transformers-yellow.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg)
+![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-orange.svg)
+![NLP](https://img.shields.io/badge/NLP-BERT%20%26%20Naive%20Bayes-green.svg)
 
 ## 📘 Introduction
 This repository hosts the **Tweet Disaster Detection** system, an advanced NLP solution designed to identify disaster-related tweets in real-time. With the explosion of social media usage, rapidly detecting potential disaster events through user-generated content is crucial for timely interventions and responses.
@@ -14,9 +14,9 @@ This repository hosts the **Tweet Disaster Detection** system, an advanced NLP s
 
 The project leverages several powerful libraries and tools, including:
 
-- **[PyTorch](https://pytorch.org/)**: The primary deep learning library used for implementing and fine-tuning the BERT model. PyTorch’s dynamic computation graph and easy-to-use API make it ideal for such tasks.
+- **[TensorFlow](https://www.tensorflow.org/)** and **[Keras](https://keras.io/)**: Used for implementing and fine-tuning the BERT model.
   
-- **[Huggingface Transformers](https://huggingface.co/transformers/)**: Provides pre-trained BERT models and utilities for tokenization, model fine-tuning, and other NLP tasks, allowing us to quickly implement state-of-the-art models.
+- **[Huggingface Transformers](https://huggingface.co/transformers/)**: Provides pre-trained BERT models and utilities for tokenization, model fine-tuning, and other NLP tasks.
 
 - **[scikit-learn](https://scikit-learn.org/)**: Used for traditional machine learning tasks, including implementing the Naive Bayes model and performance evaluation metrics.
 
