@@ -1,13 +1,16 @@
 # 🌩️ Tweet Disaster Detection
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.11.0-blue.svg)
-![Keras](https://img.shields.io/badge/Keras-2.11.0-red.svg)
-![Huggingface](https://img.shields.io/badge/Huggingface-transformers-yellow.svg)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-orange.svg)
-![NLP](https://img.shields.io/badge/NLP-BERT%20%26%20Naive%20Bayes-green.svg)
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-2.11.0-blue.svg" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-2.11.0-red.svg" alt="Keras">
+  <img src="https://img.shields.io/badge/Huggingface-transformers-yellow.svg" alt="Huggingface">
+  <img src="https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/NLP-BERT%20%26%20Naive%20Bayes-green.svg" alt="NLP">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange.svg" alt="Jupyter">
+</p>
 
 ## 📘 Introduction
+
 This repository hosts the **Tweet Disaster Detection** system, an advanced NLP solution designed to identify disaster-related tweets in real-time. With the explosion of social media usage, rapidly detecting potential disaster events through user-generated content is crucial for timely interventions and responses.
 
 ## 🌟 Libraries and Frameworks
