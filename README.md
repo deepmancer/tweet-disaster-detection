@@ -1,12 +1,13 @@
 # 🌩️ Tweet Disaster Detection
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-2.11.0-blue.svg" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/Keras-2.11.0-red.svg" alt="Keras">
-  <img src="https://img.shields.io/badge/Huggingface-transformers-yellow.svg" alt="Huggingface">
-  <img src="https://img.shields.io/badge/scikit--learn-0.24.2-orange.svg" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/NLP-BERT%20%26%20Naive%20Bayes-green.svg" alt="NLP">
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-orange.svg" alt="Jupyter">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?style=for-the-badge&logo=Hugging-Face&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/NLP-BERT%20%26%20Naive%20Bayes-green.svg" alt="NLP BERT & Naive Bayes">
+  <img src="https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-6.4.8-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook">
 </p>
 
 ## 📘 Introduction
