@@ -11,7 +11,9 @@
 
 ## 📘 Introduction
 
-This repository hosts the **Tweet Disaster Detection** system, an advanced NLP solution designed to identify disaster-related tweets in real-time. With the explosion of social media usage, rapidly detecting potential disaster events through user-generated content is crucial for timely interventions and responses.
+This repository hosts the **Tweet Disaster Detection** system, a NLP solution designed to identify disaster-related tweets in real-time. With the explosion of social media usage, rapidly detecting potential disaster events through user-generated content is crucial for timely interventions and responses.
+
+---
 
 ## 🌟 Libraries and Frameworks
 
